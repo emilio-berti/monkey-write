@@ -1,12 +1,5 @@
 #!/bin/bash
 
-if [ -z "$1" ]
-then
-    echo "Error: specify number of words"
-    exit 1
-fi
-
-
 dict=data/american-english-common
 
 function random {

@@ -1,5 +1,11 @@
 #!/bin/bash
 
+if [ -z "$1" ]
+then
+    echo "Error: specify number of words"
+    exit 1
+fi
+
 ans=()
 
 source ./src/random_word.sh
