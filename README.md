@@ -6,6 +6,7 @@ Example:
 
 `bash src/monkey-write.sh 25 | cowsay -f monkey`
 
+```
  ____________________________________
 / archenemy's eyesore's femininity's \
 | contiguity's alphabet's cumulus's  |
@@ -25,3 +26,4 @@ Example:
   /`"""`\
  /       \
 
+```
