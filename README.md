@@ -4,7 +4,7 @@ I made a monkey cow to use in cowsay (*src/monkey.cow*). You can use it by copyi
 
 Example:
 
-```bash src/monkey-write.sh 25 | cowsay -f monkey
+`bash src/monkey-write.sh 25 | cowsay -f monkey`
 
  ____________________________________
 / archenemy's eyesore's femininity's \
@@ -25,4 +25,3 @@ Example:
   /`"""`\
  /       \
 
-```
