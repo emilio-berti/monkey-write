@@ -1,6 +1,6 @@
 # Where did you arrived?
 
-According to the ![https://en.wikipedia.org/wiki/Infinite_monkey_theorem](infinite monkey theorem), *a million monkeys at a million keyboards could produce the complete works of Shakespeare*. It's time to have fun with that.
+According to the [infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem), *a million monkeys at a million keyboards could produce the complete works of Shakespeare*. It's time to have fun with that.
 
 This repo has code to concatenate random words from the Linux dictionary of American English; I excluded proper nouns to make it more interesting.
 
