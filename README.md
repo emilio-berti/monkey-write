@@ -1,3 +1,9 @@
+# Where did you arrived?
+
+According to the ![https://en.wikipedia.org/wiki/Infinite_monkey_theorem](infinite monkey theorem), *a million monkeys at a million keyboards could produce the complete works of Shakespeare*. It's time to have fun with that.
+
+This repo has code to concatenate random words from the Linux dictionary of American English; I excluded proper nouns to make it more interesting.
+
 To run the app, type in terminal `bash src/monkey-write.sh $1', where $1 is the number of words in the sentence.
 
 I made a monkey cow to use in cowsay (*src/monkey.cow*). You can use it by copying it to the cowsay file folder (`cp src/monkey.cow /usr/share/cowsay/cows`, maybe sudo it) and specifying `cowsay -f monkey`.
