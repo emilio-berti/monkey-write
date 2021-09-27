@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dict=data/rules-of-aquisition
+dict=$data_path
 
 function random {
     min=1
