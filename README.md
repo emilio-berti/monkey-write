@@ -33,3 +33,17 @@ Example:
  /       \
 
 ```
+
+# Home is where the heart is, but the stars are made of Latinum
+
+The `quark-says.sh` will trigger Quark to teach you a random [Rule of Aquisition](https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition).
+
+This script looks for relative paths, so you can _alias_ it in _~/.bashrc_ if you want:
+
+```
+echo "alias quark='/home/whereyouputit/monkey-write/src/quark-says.sh'" >> ~/.bashrc
+source ~/.bashrc
+quark
+```
+
+**Rule of Aquisition # 48 : The bigger the smile, the sharper the knife.**

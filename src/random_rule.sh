@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dict=/home/eb97ziwi/Proj/monkey-write/data/rules-of-aquisition
+dict=$data_path
 
 function random {
     min=1
