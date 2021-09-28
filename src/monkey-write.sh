@@ -8,7 +8,7 @@ fi
 
 ans=()
 
-source ./src/random_word.sh
+source /home/eb97ziwi/Proj/monkey-write/src/random_word.sh
 
 i=1
 

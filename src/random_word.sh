@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dict=data/american-english-common-no_genitive
+dict=/home/eb97ziwi/Proj/monkey-write/data/american-english-common-no_genitive
 
 function random {
     min=1
